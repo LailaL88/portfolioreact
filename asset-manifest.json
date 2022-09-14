@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolioreact/static/css/main.83ae2280.css",
+    "main.js": "/portfolioreact/static/js/main.9de10192.js",
+    "static/media/ourworld.mp4": "/portfolioreact/static/media/ourworld.06a18e5bf3023d16fb78.mp4",
+    "static/media/menu-app.mp4": "/portfolioreact/static/media/menu-app.fe3db950a8ff9130fbad.mp4",
+    "static/media/OpenSansLight.ttf": "/portfolioreact/static/media/OpenSansLight.3d5923f94fc319b5652a.ttf",
+    "static/media/junior-frontend-developer-portfolio-main-background-brick-wall.jpg": "/portfolioreact/static/media/junior-frontend-developer-portfolio-main-background-brick-wall.cee068201368136b9d3f.jpg",
+    "static/media/Montserrat-Bold.ttf": "/portfolioreact/static/media/Montserrat-Bold.68c8d686f4b0d91b92f1.ttf",
+    "static/media/Montserrat-Regular.ttf": "/portfolioreact/static/media/Montserrat-Regular.7c8ccfe4b8a1b8ea2327.ttf",
+    "static/media/contact-section-background.jpg": "/portfolioreact/static/media/contact-section-background.09f00e611a142b686d11.jpg",
+    "static/media/weather-app.png": "/portfolioreact/static/media/weather-app.dd75f3ea6559db9c4bae.png",
+    "static/media/sparkleheart.png": "/portfolioreact/static/media/sparkleheart.aafb53f3f226ed896089.png",
+    "static/media/ekonams.png": "/portfolioreact/static/media/ekonams.6c45f6e66c3c79280e6e.png",
+    "static/media/pineapple.png": "/portfolioreact/static/media/pineapple.29be9bd0db0a69a8f7e9.png",
+    "static/media/portfoliowp.png": "/portfolioreact/static/media/portfoliowp.96af7dad6813c6646b18.png",
+    "static/media/recipes.png": "/portfolioreact/static/media/recipes.3bfa5abc94a74fb53dbb.png",
+    "static/media/poetik.png": "/portfolioreact/static/media/poetik.c06ead826982ef50b889.png",
+    "static/media/portfolio2.png": "/portfolioreact/static/media/portfolio2.66114a13600803ed5f52.png",
+    "index.html": "/portfolioreact/index.html",
+    "main.83ae2280.css.map": "/portfolioreact/static/css/main.83ae2280.css.map",
+    "main.9de10192.js.map": "/portfolioreact/static/js/main.9de10192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ae2280.css",
+    "static/js/main.9de10192.js"
+  ]
+}
